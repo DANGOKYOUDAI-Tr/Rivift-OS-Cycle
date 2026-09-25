@@ -1,6 +1,6 @@
 {
-  "version": "v5.2.4",
-  "notes": "Music Creatorのデザイン刷新\n\n- 画面をヘッダー/サイドバー/設定バー/グリッドに分離\n- 光る演出を廃止し、OS標準の配色に統一\n- アイコンを線画スタイルに統一",
-  "publishedAt": "2026-09-25T00:00:00Z",
+  "version": "v5.2.5",
+  "notes": "コードエディタとコード実行の更新\n\n- コードエディタで編集できる言語に、新たにCとPyhtonを追加しました。\n- コード実行アプリで実行できるファイルに、新たにCとPyhtonを追加しました。",
+  "publishedAt": "2026-09-25T17:18:00Z",
   "downloadUrl": "https://raw.githubusercontent.com/DANGOKYOUDAI-Tr/Rivift-OS-Update/main/index.html"
 }
