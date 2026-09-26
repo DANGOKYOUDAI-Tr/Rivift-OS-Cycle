@@ -1,6 +1,6 @@
 {
-  "version": "v5.2.5",
-  "notes": "コードエディタとコード実行の更新\n\n- コードエディタで編集できる言語に、新たにCとPyhtonを追加しました。\n- コード実行アプリで実行できるファイルに、新たにCとPyhtonを追加しました。",
-  "publishedAt": "2026-09-25T17:18:00Z",
+  "version": "v5.2.6",
+  "notes": "コード実行アプリのバグ修正",
+  "publishedAt": "2026-09-26T09:30:00Z",
   "downloadUrl": "https://raw.githubusercontent.com/DANGOKYOUDAI-Tr/Rivift-OS-Update/main/index.html"
 }
