@@ -1,6 +1,6 @@
 {
-  "version": "v5.2.6",
-  "notes": "コード実行アプリのバグ修正",
-  "publishedAt": "2026-09-26T09:30:00Z",
+  "version": "v5.2.7",
+  "notes": "コードエディタ関連の開発環境をアップデート",
+  "publishedAt": "2026-09-27T16:09:00Z",
   "downloadUrl": "https://raw.githubusercontent.com/DANGOKYOUDAI-Tr/Rivift-OS-Update/main/index.html"
 }
